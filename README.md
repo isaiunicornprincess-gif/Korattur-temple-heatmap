@@ -48,7 +48,8 @@ It focuses on mapping and analyzing the distribution of:
 
 ## 📸 Sample Output
 
-(Add your map screenshot here)
+<img width="1428" height="1340" alt="image" src="https://github.com/user-attachments/assets/dfbea602-4261-4c6b-9c96-7ed217c48cb7" />
+
 
 ---
 
